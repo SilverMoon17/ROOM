@@ -159,7 +159,8 @@ ul {
 
 }
 .swiper-container {
-    padding-bottom: 120px !important;
+    padding-bottom: 50px !important;
+    margin-bottom: 70px;
 }
 /* .swiper-slide {
     text-align: center;
@@ -172,7 +173,7 @@ ul {
     color: #ffffff !important; 
 }
 .swiper-pagination {
-    bottom: 95px !important;
+    bottom: 25px !important;
 }
 .swiper-pagination-bullet {
     background: #46856E !important;
