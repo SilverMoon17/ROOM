@@ -1,8 +1,8 @@
-const swiper = new Swiper('.swiper-container', {
+const swiper = new Swiper('.swiper', {
     slidesPerView: 1.15,
     centeredSlides: true,
     loop: true,
-    mousewheel: true,
+    // mousewheel: true,
     // cssMode: true,
     // If we need pagination
     pagination: {
